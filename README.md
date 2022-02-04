@@ -4,7 +4,7 @@ This script helps you to delete the Google Drive files using Python.
 
 # Step 1:
 
-Auththenticate your Google Drive with Google Cloud Console in OAuth Section and get the Cleint secret json token. 
+Auththenticate your Google Drive with Google Cloud Console in OAuth Section and get the Client secret json token. 
 
 # Step 2:
 
